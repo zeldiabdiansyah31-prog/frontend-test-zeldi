@@ -5,7 +5,7 @@ This project is a technical test for the **Junior Frontend Developer** position 
 
 The goal of this test is to recreate the scroll-based experience from the reference Webflow website using **Vue.js 2 (Options API)**, **SASS**, and **GSAP ScrollTrigger**, focusing on smooth animations, pinned sections, and clean component structure.
 
-Reference website:
+Reference website:  
 https://tr-scroll-toggle.webflow.io/
 
 ---
@@ -30,3 +30,29 @@ https://tr-scroll-toggle.webflow.io/
 ---
 
 ## Project Structure
+```text
+frontend-test-zeldi/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ assets/
+│  │  ├─ images/
+│  │  └─ styles/
+│  │     └─ main.scss
+│  ├─ components/
+│  │  ├─ Header.vue
+│  │  ├─ HeroSection.vue
+│  │  ├─ AboutSection.vue
+│  │  ├─ FeatureSection.vue
+│  │  ├─ ScrollExperience.vue
+│  │  └─ FooterSection.vue
+│  ├─ pages/
+│  │  └─ Index.vue
+│  ├─ App.vue
+│  └─ main.js
+├─ .gitignore
+├─ babel.config.js
+├─ jsconfig.json
+├─ package.json
+├─ vue.config.js
+└─ README.md
