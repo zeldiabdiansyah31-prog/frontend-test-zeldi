@@ -1,19 +1,32 @@
-# frontend-test-zeldi
+# Technical Test – Junior Frontend Developer
 
-## Project setup
-```
-npm install
-```
+## Project Overview
+This project is a technical test for the **Junior Frontend Developer** position at **Summit Global Teknologi**.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The goal of this test is to recreate the scroll-based experience from the reference Webflow website using **Vue.js 2 (Options API)**, **SASS**, and **GSAP ScrollTrigger**, focusing on smooth animations, pinned sections, and clean component structure.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Reference website:
+https://tr-scroll-toggle.webflow.io/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+## Technologies Used
+- Vue.js 2 (Options API)
+- Vue CLI
+- SASS / SCSS
+- GSAP (GreenSock Animation Platform)
+- GSAP ScrollTrigger Plugin
+
+---
+
+## Features
+- Modular component-based architecture
+- Scroll-based animations using GSAP ScrollTrigger
+- Pinned section with step-by-step scroll interaction
+- Smooth and performant animations
+- Responsive layout (desktop, tablet, mobile)
+- Clean and readable code structure
+
+---
+
+## Project Structure
